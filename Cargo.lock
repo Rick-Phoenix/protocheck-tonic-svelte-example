@@ -1212,8 +1212,6 @@ dependencies = [
  "proto-types",
  "protocheck",
  "protocheck-build",
- "serde",
- "serde_json",
  "tokio",
  "tonic",
  "tonic-prost",
