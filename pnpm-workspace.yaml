@@ -1,0 +1,4 @@
+onlyBuiltDependencies:
+  - '@bufbuild/buf'
+  - '@tailwindcss/oxide'
+  - esbuild
